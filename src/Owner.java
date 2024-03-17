@@ -1,4 +1,5 @@
-//Enes Özbek enoz7518
+//Ägarklassen
+//Av Danyal Enes Özbek
 import java.util.ArrayList;
 
 public class Owner implements Comparable<Owner> {

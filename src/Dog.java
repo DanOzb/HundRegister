@@ -1,5 +1,5 @@
-//Enes Özbek enoz7518
-
+//Hund klassen
+//Av Danyal Enes Özbek
 public class Dog {
 	private static final double DACHSHUND_TAIL_LENGTH = 3.7;
 	private String name; 

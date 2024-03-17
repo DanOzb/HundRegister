@@ -1,4 +1,5 @@
-//Enes Özbek enoz7518
+//Inmatningsklassen
+//Av Danyal Enes Özbek
 import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.Scanner;

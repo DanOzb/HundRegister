@@ -1,4 +1,5 @@
-//enoz7518 Enes Özbek
+//Hund svans jämförarklassen
+//Av Danyal Enes Özbek
 import java.util.Comparator;
 
 public class DogTailComparator implements Comparator<Dog>{

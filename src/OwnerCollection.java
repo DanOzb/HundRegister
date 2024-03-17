@@ -1,4 +1,5 @@
-//enoz7518 Enes Özbek
+//Ägar samlingsklassen
+//Av Danyal Enes Özbek
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;

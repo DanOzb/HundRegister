@@ -1,4 +1,5 @@
-//enoz7518 Enes Özbek
+//Hund sorterarklassen
+//Av Danyal Enes Özbek
 import java.util.ArrayList;
 import java.util.Comparator;
 

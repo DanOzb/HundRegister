@@ -1,4 +1,5 @@
-//enoz7518 Enes Özbek
+//Hund samlingsklassen
+//Av Danyal Enes Özbek
 import java.util.ArrayList;
 
 public class DogCollection {

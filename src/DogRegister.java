@@ -1,4 +1,5 @@
-//Enes Özbek enoz7518
+//Hund registreringsklassen
+//Av Danyal Enes Özbek
 public class DogRegister {
 
 	private static final String OWNER_REGISTER_COMMAND = "register new owner";
